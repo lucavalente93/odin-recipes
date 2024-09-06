@@ -1,0 +1,1 @@
+Hello, I'm Luca. This project is a brief demonstration of the skills I have acquired in the Foundations section of The Odin Project.
